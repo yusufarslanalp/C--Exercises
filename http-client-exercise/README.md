@@ -18,6 +18,9 @@ Given var urls = new string[]
 };
 
 (use HttpClient  async methods. The Task Asynchronous Programming (TAP) model with async and await (C#)" | Microsoft Docs)
+
 Print text lengths of each url.
+
 Print the sum of lengths.
+
 Print total elapsed time.
